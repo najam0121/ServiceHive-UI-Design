@@ -128,7 +128,7 @@ const Testimonials = () => {
         </svg>
       </div>
       
-      <h3 className="text-3xl font-bold text-foreground mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+      <h3 className="text-3xl font-bold mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
         Enterprise-Grade Security & Compliance
       </h3>
       
